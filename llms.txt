@@ -1,0 +1,44 @@
+# Medidas Cautelares, Conflictividad Intrafamiliar, Victimización Infantil e Intensidad de Intervención Estatal en Argentina
+
+> Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales — Versión 1.0.0. Analiza la asimetría de escala entre intervenciones cautelares familiares (OVD 2024, CABA/federal), victimización infantil intrafamiliar observada (UNICEF/Línea 137), condenas penales (RNR/UFEM) y falsas denuncias (OVG 2026). Publicado como single-page Jekyll en GitHub Pages con firma PGP.
+
+Idioma: español. País: Argentina. Badges de evidencia: Observado, Derivado, Supuesto, Exploratorio. Secciones §0–§11 = núcleo empírico; §13 = marco interpretativo (Public Choice); anexos = fact-check y glosario de denominadores FD.
+
+## Núcleo empírico
+
+- [Resumen Ejecutivo + Encuadre Metodológico](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/00-methodology.md): Tabla central con estructura de 1 a 3 escenarios por indicador, taxonomía de evidencia, alcance territorial, políticas de contribución y corrección
+- [Objetivo](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/01-objective.md): Pregunta de investigación, alcance descriptivo
+- [Intervención cautelar familiar](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/02-intervention.md): OVD 2024 (33.763 medidas, 3.182 presentaciones NNyA, 4.474 medidas NNyA), SCBA RVF PBA 2023, caso base observado 3.525 NNyA (3.182 × 79,1% × 1,4 hijos) sobre microdatos públicos CSJN abiertos
+- [Victimización infantil intrafamiliar](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/03-victimization.md): UNICEF/Línea 137 (3.219 víctimas abuso sexual, 56,5% intrafamiliar → 1.819 víctimas derivadas)
+- [Falsas denuncias](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/04-false-allegations.md): OVG Relevamiento Federal 2026, intervalo 0,09%–61,5%, tabla provincial 14 jurisdicciones, Santa Fe como techo, complementarios y derivación ~42%
+- [Universo penal: condenas](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/05-penal-convictions.md): Jerarquía RNR/UFEM/RNDG, datos duros (15% condena/denuncia, 68% intrafamiliar UFEP), escenarios intrafamiliar NNyA ~500–1.000/año
+- [Marco A](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/06-framework-a.md): Ratio NNyA cautelares / NNyA víctimas observadas (caso base observado 1,94 : 1, comparación comparable)
+- [Marco B](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/07-framework-b.md): 4 capas — Capa 1 ratio bruto medidas/condenas (6,0:1 central), Capa 2 ratio injustificadas/condena con matriz de sensibilidad (0,53–3,67:1), Capa 3 daño por desvinculación (557–3.853 NNyA), Capa 4 extrapolación territorial CABA→nacional (~15×)
+
+## Interpretación y discusión
+
+- [Discusión](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/08-discussion.md): Tres escalas institucionales (cautelar, victimización, penal), resistencia estructural a la autorreforma
+- [Limitaciones](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/09-limitations.md): 9 limitaciones explícitas (territorial, temporal, conceptual, penal, FD, causalidad, etc.)
+- [Argumentos contrarios](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/section-counterclaims.md): 7 objeciones formales con evaluación y conclusión
+- [Trazabilidad](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/10-evidence-hierarchy.md): Jerarquía completa de evidencia por categoría (Observado, Derivado, Supuesto, Exploratorio)
+- [Conclusiones](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/11-conclusions.md): 11 puntos con condiciones de falsación, reformas estructurales recomendadas
+- [Marco institucional complementario](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/13-public-choice.md): Teoría de la Elección Pública aplicada al sistema de justicia argentino, evidencia académica y macroeconómica global, 3 mecanismos de sesgo institucional, condiciones de falsación
+
+## Aparato académico
+
+- [Sobre los autores](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/section-authors.md): Postura epistemológica, verificación PGP, contacto
+- [Nomenclatura](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/section-nomenclature.md): Glosario completo de siglas (CSJN, MPF, OVD, OVG, RNR, SNIC, UFEM, UFEP, CePASI, etc.)
+- [Revisiones](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/section-revisions.md): Historial de versiones del informe
+- [Fuentes primarias](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/12-sources.md): 39 fuentes categorizadas con enlaces archive.is
+
+## Anexos
+
+- [Fact-check](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/annex-a-factcheck.md): 26 afirmaciones verificables con valor, escenario, evidencia y URL
+- [Glosario FD](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/sections/annex-b-glossary.md): Tabla de denominadores de falsas denuncias
+
+## Optional
+
+- [README](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/README.md): Resumen del proyecto, hallazgos clave, enlaces de verificación
+- [AGENTS.md](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/AGENTS.md): Manual operativo para contribuidores y agentes (reglas, filosofía, índice bajo demanda)
+- [missing-content.md](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/missing-content.md): Auditoría de brechas de contenido entre report-source.md original y los parciales sections/
+- [CONTRIBUTING.md](https://raw.githubusercontent.com/open-evidence-ar/state-vs-family-evidence/main/CONTRIBUTING.md): Guía de contribución, templates de issues

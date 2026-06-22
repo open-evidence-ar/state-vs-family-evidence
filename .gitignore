@@ -1,0 +1,12 @@
+.env
+.env.*
+_site/
+.jekyll-cache/
+.jekyll-metadata/
+.sass-cache/
+node_modules/
+*.zip
+private-key.asc
+private-key*
+scripts/archive-results.csv
+weak-sources-catalog.md
