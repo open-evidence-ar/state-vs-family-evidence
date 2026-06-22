@@ -1,0 +1,15 @@
+title: "Medidas Cautelares, Conflictividad Intrafamiliar, Victimización Infantil e Intensidad de Intervención Estatal en Argentina"
+description: "Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales — replicando la metodología de Project-Evidence"
+lang: es
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

@@ -1,0 +1,8 @@
+## Revisiones
+
+| Version | Fecha | Cambios |
+|---|---|---|
+| 1.0.0 | Junio 2026 | Eliminado `report-source.md` (monolito fuera de sincronía). Creado `llms.txt` en raíz siguiendo estándar [llmstxt.org](https://llmstxt.org): índice con enlaces raw GitHub a todas las secciones, reemplazando a `report-source.md` como punto de entrada para LLMs. `_config.yml` actualizado (exclude reparado). |
+| 1.0.0 | Junio 2026 | Versión inaugural del estudio descriptivo con trazabilidad de evidencia. Estructura completa: Marcos A/B, intervalos FD (0,09%–61,5%), extrapolación territorial (Capa 4 ×15), §13 marco institucional complementario (Public Choice + contexto judicial argentino + incentivo estructural de instrumentalización con 5 condiciones de falsación), 39 fuentes oficiales archivadas. |
+| 1.0.0 | Junio 2026 | Corrección de atribución §7 Capa 3 y §11: "×3 arrestos adultos" reasignado a Doyle (2007) NBER WP 13291; "−39pp graduación HS / +41pp prisión adulta a los 25" reasignado a Aizer & Doyle (2009) NBER WP 19102. Eliminada atribución errónea "Bald et al. 2022 — empleo −40% / encarcelamiento ×3" (no verificable en BCHM 2021 WP). Agregado disclaimer evidencial de §13 en §8.1 y §11.9. |
+| 1.0.0 | Junio 2026 | §7 Capa 3: agregado Markowitz & Ryan 2016 (PMC5082431) — father absence con diseño de efectos fijos entre hermanos. Agregada nota de alcance bajo tabla de evidencia internacional que distingue remoción completa del hogar (foster care: Doyle, BCHM, Aizer & Doyle) de pérdida de vínculo con un progenitor (Markowitz & Ryan, Hine, Springer); se señala que este segundo mecanismo es el más comparable a las cautelares argentinas (§2: 66% padre denunciado). Fuente [23d] en §12. |

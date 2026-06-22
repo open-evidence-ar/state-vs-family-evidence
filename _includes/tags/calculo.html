@@ -1,0 +1,13 @@
+<div class="calculo-box">
+<p><strong>Cálculo:</strong>
+{%- if include.formula -%}
+  <code>{{ include.formula }}</code>
+{%- endif -%}
+{%- if include.resultado -%}
+  <strong>= {{ include.resultado }}</strong>
+{%- endif -%}
+{%- if include.nota -%}
+  <br><em>{{ include.nota }}</em>
+{%- endif -%}
+</p>
+</div>
