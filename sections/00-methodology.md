@@ -1,4 +1,4 @@
-<img src="../assets/Asimetr%C3%ADa_en_la_justicia_infantil.png" alt="State vs Family Evidence — Asimetría en la justicia infantil" style="max-width:100%; height:auto; display:block; margin:0 auto 1.5em auto;">
+<img src="assets/Asimetr%C3%ADa_en_la_justicia_infantil.png" alt="State vs Family Evidence — Asimetría en la justicia infantil" style="max-width:100%; height:auto; display:block; margin:0 auto 1.5em auto;">
 
 ## Resumen Ejecutivo
 {: #resumen-ejecutivo}
