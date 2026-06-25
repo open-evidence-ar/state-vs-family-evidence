@@ -35,6 +35,7 @@ description: "Estudio descriptivo con trazabilidad de evidencia, intervalos veri
 - [Fact-check](#anexo-a-factcheck)
 - [Glosario](#anexo-b--glosario-de-denominadores-fd)
 - [Marco institucional complementario](#marco-institucional-complementario)
+- [Marco A Córdoba — réplica jurisdiccional](#marco-a-cordoba)
 
 </div>
 
@@ -54,6 +55,8 @@ description: "Estudio descriptivo con trazabilidad de evidencia, intervalos veri
 {% include_relative sections/section-revisions.md %}
 {% include_relative sections/12-sources.md %}
 {% include_relative sections/13-public-choice.md %}
+
+{% include_relative sections/14-marco-cordoba.md %}
 
 <hr>
 

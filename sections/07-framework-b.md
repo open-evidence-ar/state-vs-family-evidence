@@ -19,16 +19,16 @@ Si una proporción de las medidas cautelares se basó en denuncias falsas o infu
 
 ### Capa 1 — Ratio bruto (medidas / condenas)
 
-> **Advertencia de dependencia del denominador.** Esta Capa documenta la sensibilidad de la razón a la elección del denominador penal. La cifra puntual 6,0:1 corresponde al escenario central (~750 condenas intrafamiliares NNyA/año, ver§5.3); pero el rango resultante del conjunto de denominadores disponibles cubre **tres órdenes de magnitud** (~1,55:1 hasta ~2.237:1) según se incluya o no el filtro intrafamiliar NNyA. Ningún denominador es "errado" en sí mismo — cada uno responde a una pregunta distinta. La lectura metodológica del Marco B debe hacerse sobre el **rango completo**, no sobre un valor puntual aislado.
+> **Advertencia de dependencia del denominador.** Esta Capa documenta la sensibilidad de la razón a la elección del denominador penal. La cifra puntual 6,0:1 corresponde al escenario central (~750 condenas intrafamiliares NNyA/año, ver §5.3); pero el rango resultante del conjunto de denominadores disponibles cubre **tres órdenes de magnitud** (~1,55:1 hasta ~2.237:1) según se incluya o no el filtro intrafamiliar NNyA. Ningún denominador es "errado" en sí mismo — cada uno responde a una pregunta distinta. La lectura metodológica del Marco B debe hacerse sobre el **rango completo**, no sobre un valor puntual aislado.
 
 > **Prevención metodológica: error de categoría y filtros imposibles.** El Marco B compara medidas cautelares amplias (que abarcan violencia psicológica, física, sexual, económica y verbal) con condenas por un subconjunto específico (abuso sexual intrafamiliar contra NNyA). Un lector podría argumentar que la comparación es un "error de categoría" porque el 95% de las causas NNyA involucran violencia psicológica y solo 9% violencia sexual (§2.1). Esta lectura omite tres hechos: **(a)** la OVD no desglosa medidas por tipo de violencia alegada, por lo que *no es factible* filtrar el numerador a solo medidas causadas por denuncias de abuso sexual — el dato simplemente no existe en registros públicos; **(b)** la matriz de sensibilidad de Capa 1 ya presenta denominadores que *no* filtran por tipo de violencia (UFEM ≈2.884: ratio 1,55:1; RNR >2.000: ratio <2,2:1), permitiendo al lector elegir el denominador que considere epistémicamente correcto; **(c)** el denominador intrafamiliar NNyA (~750) es el que mide condenas del subconjunto que se superpone con la intervención cautelar — las causas donde existe simultáneamente una denuncia civil con NNyA y un proceso penal. Usar un denominador sin filtro intrafamiliar (UFEM ≈2.884) multiplica condenas por delitos sexuales contra adultos que no corresponden al universo cautelar NNyA, *sobrestimando* el denominador relevante. El propósito del Marco B es medir la intensidad de la coerción estatal sobre familias con niños; el subconjunto condenatorio que intersecta ese universo es, por construcción, el intrafamiliar NNyA.
 
 | Escenario penal | Condenas ref. | Ratio | Evidencia |
 |---|---|---|---|
-| Intrafamiliar NNyA bajo | **500** | 4.474 / 500 = **8,9 : 1** | <span class="badge badge-derivado" title="Aritmetica reproducible sobre observados">◇ Derivado³</span> |
-| Intrafamiliar NNyA alto | **1.000** | 4.474 / 1.000 = **4,5 : 1** | <span class="badge badge-derivado" title="Aritmetica reproducible sobre observados">◇ Derivado³</span> |
-| **Intrafamiliar NNyA central** | **750** | 4.474 / 750 = **6,0 : 1** | <span class="badge badge-derivado" title="Aritmetica reproducible con anclas parciales">◇ Derivado³</span> |
-| RNR nacional (>2.000/año) | >2.000 | **< 2,2 : 1** | <span class="badge badge-derivado" title="Aritmetica reproducible sobre observados">◇ Derivado</span> |
+| Intrafamiliar NNyA bajo | **500** | 4.474 / 500 = **8,9 : 1** | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado³</span> |
+| Intrafamiliar NNyA alto | **1.000** | 4.474 / 1.000 = **4,5 : 1** | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado³</span> |
+| **Intrafamiliar NNyA central** | **750** | 4.474 / 750 = **6,0 : 1** | <span class="badge badge-derivado" title="Aritmética reproducible con anclas parciales">◇ Derivado³</span> |
+| RNR nacional (>2.000/año) | >2.000 | **< 2,2 : 1** | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | UFEM central (≈2.884/año) | ≈2.884 | **1,55 : 1** | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> (cruce RNR/SNIC) |
 | Santa Fe 2025 | 354 | 4.474 / 354 = **12,6 : 1** | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | Formosa 2023 | 62 | 4.474 / 62 = **72,2 : 1** | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> provincial |
@@ -128,7 +128,7 @@ La evidencia de la Capa 3 indica que la inducción estatal de monoparentalidad (
 | Referencia | Población | Factor vs CABA |
 |---|---|---|
 | CABA (base OVD) | 3,1M | 1× |
-| PBA (solo RVF 2023: 327.905 medidas) | 17,5M | ~10× medidas |
+| PBA (RVF 2023: 327.905 medidas combinadas Familia + Paz) | 17,5M | ~5,6× población (~13× tasa per cápita) |
 | Nacional (tasa PBA) | 46,2M | **~15×** |
 
 | Indicador | CABA | Nacional estimado |

@@ -11,7 +11,7 @@
 | 4 | **PJ Formosa 2023** | 75 sentencias abuso | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> provincial |
 | 5 | **CePASI** | Cadena 1.000 → 100 → 1 | <span class="badge badge-supuesto" title="Parámetro sin fuente directa">△ Supuesto</span> |
 
-{% include tags/calculo.html formula=">20.000 condenas / 10 años" resultado="≈ >2.000 condenas/año (integridad sexual)" nota="<span class='badge badge-derivado' title='Aritmetica reproducible sobre observados'>◇ Derivado</span> secundario" %}
+{% include tags/calculo.html formula=">20.000 condenas / 10 años" resultado="≈ >2.000 condenas/año (integridad sexual)" nota="<span class='badge badge-derivado' title='Aritmética reproducible sobre observados'>◇ Derivado</span> secundario" %}
 
 > *"El RNR incluye las sentencias que le son comunicadas cada año, que no necesariamente se produjeron en ese período."*
 > — [MPF UFEM, Relevamiento fuentes secundarias sobre violencia sexual (2023)](https://www.mpf.gob.ar/ufem/files/2023/05/Informe_Relevamiento-de-fuentes-secundarias-de-datos-sobre-violencia-sexual.pdf)
@@ -68,17 +68,17 @@ Fuente: [MPF DOVIC Informe 2023](https://www.mpf.gob.ar/dovic/files/2024/06/DOVI
 |---|---|---|---|
 | Nacional observado (bajo) | **>2.000** | RNDG / RNR | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | UFEM estimación central | **≈2.884** | 15% × 19.227 denuncias SNIC 2016 | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
-| Intrafamiliar NNyA bajo | **~500** | 2.000 × 45% × 60% | <span class="badge badge-derivado" title="Arithmetic over partial anchors">◇ Derivado³</span> |
-| **Intrafamiliar NNyA central** | **~750** | 2.500 × 45% × 65% | <span class="badge badge-derivado" title="Arithmetic over partial anchors">◇ Derivado³</span> |
-| Intrafamiliar NNyA alto | **~1.000** | 3.000 × 45% × 70% | <span class="badge badge-derivado" title="Arithmetic over partial anchors">◇ Derivado³</span> |
+| Intrafamiliar NNyA bajo | **~500** | 2.000 × 45% × 60% | <span class="badge badge-derivado" title="Aritmética reproducible sobre anclas parciales">◇ Derivado³</span> |
+| **Intrafamiliar NNyA central** | **~750** | 2.500 × 45% × 65% | <span class="badge badge-derivado" title="Aritmética reproducible sobre anclas parciales">◇ Derivado³</span> |
+| Intrafamiliar NNyA alto | **~1.000** | 3.000 × 45% × 70% | <span class="badge badge-derivado" title="Aritmética reproducible sobre anclas parciales">◇ Derivado³</span> |
 | Provincial documentado | **62** | Formosa 2023 (sentencias condenatorias) | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | Provincial sentencias | **354** | Santa Fe 2025 (condenas integridad sexual) | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | CePASI mínimo | **~2** | 3.219 × 74,2% × 0,1% | <span class="badge badge-supuesto" title="Parámetro sin fuente directa">△ Supuesto</span> |
 
-> *"Estimaciones de especialistas indican que cada 1000 casos de abuso sexual, sólo 100 seudenuncian y apenas 1 recibe condena."*
+> *"Estimaciones de especialistas indican que cada 1000 casos de abuso sexual, sólo 100 se denuncian y apenas 1 recibe condena."*
 > — [CePASI](https://cepasi.org/algunas-cifras/)
 
-{% include tags/calculo.html formula="3.219 × 74,2% = 2.388 → × 0,1%" resultado="≈ 2 condenas" nota="<span class='badge badge-supuesto' title='Parametro sin fuente directa'>△ Supuesto</span>" %}
+{% include tags/calculo.html formula="3.219 × 74,2% = 2.388 → × 0,1%" resultado="≈ 2 condenas" nota="<span class='badge badge-supuesto' title='Parámetro sin fuente directa'>△ Supuesto</span>" %}
 
 #### Derivación del escenario central (~750/año)
 
@@ -89,7 +89,7 @@ Condenas totales integridad sexual (RNR):                 ~2.500/año
 = Condenas intrafamiliares NNyA estimadas:               ~750/año
 ```
 
-{% include tags/calculo.html formula="Condenas totales integridad sexual (RNR): ~2.500/año × % víctimas NNyA: ~45% × % intrafamiliar: ~65%" resultado="≈ 750 condenas intrafamiliares NNyA / año" nota="<span class='badge badge-derivado' title='Arimetica reproducible con anclas parciales'>◇ Derivado³</span>" %}
+{% include tags/calculo.html formula="Condenas totales integridad sexual (RNR): ~2.500/año × % víctimas NNyA: ~45% × % intrafamiliar: ~65%" resultado="≈ 750 condenas intrafamiliares NNyA / año" nota="<span class='badge badge-derivado' title='Aritmética reproducible con anclas parciales'>◇ Derivado³</span>" %}
 
 #### Calidad verificable de los parámetros (escenario central)
 
@@ -109,9 +109,9 @@ El propio material CePASI afirma que *"en la Argentina, entre el 70 y 80% de los
 
 | Componente | Bajo | Central | Alto | Efecto sobre ~750 |
 |---|---|---|---|---|
-| % NNyA | 40% (SNIC floor sin confirmar) | 45% (UFEM CABA) | 50% (hipótesis alta) | ~500 → ~750 → ~1.000 |
-| % intrafamiliar | 50% (escenario bajo) | 65% (UFEP/CePASI) | 80% (CePASI techo) | ~500 → ~750 → ~1.166 |
+| % NNyA | 40% (SNIC floor sin confirmar) | 45% (UFEM CABA) | 50% (hipótesis alta) | ~650 → ~750 → ~813 |
+| % intrafamiliar | 50% (escenario bajo) | 65% (UFEP/CePASI) | 80% (CePASI techo) | ~563 → ~750 → ~900 |
 
-Intervalo compuesto: **~500 (40% × 50%) a ~1.250 (50% × 80%)**. El valor central humano solo se validará cuando el RNR publique desglose condena × edad × vínculo a nivel nacional — condición de falsación documentada en §00 (Política de Corrección).
+Intervalo compuesto: **~400 (2.000 × 40% × 50%) a ~1.200 (3.000 × 50% × 80%)**. El valor central humano solo se validará cuando el RNR publique desglose condena × edad × vínculo a nivel nacional — condición de falsación documentada en §00 (Política de Corrección).
 
 **Nota metodológica:** El RNR y UFEM miden **todos** los delitos sexuales. El escenario intrafamiliar NNyA (~500–1.000) es el denominador metodológicamente correcto para el Marco B (porque mide condenas del mismo subconjunto que las cautelares afectantes), pero es una **estimación compuesta sin fuente directa nacional cruzando condena × edad × vínculo simultáneamente**. Ninguno de los tres componentes — total de condenas por integridad sexual (% niñas/niños/adolescentes víctimas, % intrafamiliar) — independientes entre sí puede replicar el producto. El número es un **derivado de tres anclas con grado mixto de obsolescencia y verificación**: no es un dato y debe leerse como el mejor estimador direccional disponible en ausencia del cruce nacional directo.

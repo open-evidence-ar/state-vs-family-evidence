@@ -270,6 +270,30 @@ Check -Id "CAP4-615FD" -Computed (3.67 * 15) -Reported 55 -Tolerance 1 -Note "3.
 Check -Id "CAP4-DANO89" -Computed (557 * 15) -Reported 8300 -Tolerance 100 -Note "557*15"
 Check -Id "CAP4-DANO615" -Computed (3853 * 15) -Reported 57500 -Tolerance 300 -Note "3853*15"
 
+# ----------------------------------------------------------
+# §14 Marco A Cordoba — provincial
+# ----------------------------------------------------------
+Write-Output ""
+Write-Output "--- §14 Marco A Cordoba provincial ---"
+Check -Id "CBA-A" -Computed (1107 / 977) -Reported 1.13 -Tolerance 0.02 -Note "1107/977 Escenario A (sin filtro)"
+Check -Id "CBA-B-DENOM" -Computed (977 * 0.7255) -Reported 709 -Tolerance 1.5 -Note "977*72.55% denominador proxy UNQ"
+Check -Id "CBA-B" -Computed (1107 / 709) -Reported 1.56 -Tolerance 0.02 -Note "1107/709 Escenario B (proxy etario)"
+Check -Id "CBA-C-DENOM" -Computed (977 * 0.6151) -Reported 601 -Tolerance 1.5 -Note "977*61.51% denominador sobre total"
+Check -Id "CBA-C" -Computed (1107 / 601) -Reported 1.84 -Tolerance 0.02 -Note "1107/601 Escenario C (sobre total)"
+
+# ----------------------------------------------------------
+# §14.9 Inconsistencia sub-provincial (audit, no ratio)
+# ----------------------------------------------------------
+Write-Output ""
+Write-Output "--- §14.9 Inconsistencia SNIC departamental ---"
+Check -Id "CBA-CAP-2020" -Computed 9 -Reported 9 -Tolerance 0 -Note "Capital DIS hechos 2020 (SNIC departamental)"
+Check -Id "CBA-INT-2020" -Computed 968 -Reported 968 -Tolerance 0 -Note "Interior DIS hechos 2020 (SNIC departamental)"
+Check -Id "CBA-TOTAL-2020" -Computed (9 + 968) -Reported 977 -Tolerance 0 -Note "9+968=977 coincide con CSV provincial"
+Check -Id "CBA-CAP-2015" -Computed 1296 -Reported 1296 -Tolerance 0 -Note "Capital DIS hechos 2015 (pre-colapso)"
+Check -Id "CBA-CAP-2016" -Computed 3 -Reported 3 -Tolerance 0 -Note "Capital DIS hechos 2016 (post-colapso)"
+Check -Id "CBA-CAP-DROP" -Computed ([math]::Round((1296 - 3) / 1296 * 100, 1)) -Reported 99.8 -Tolerance 0.1 -Note "caida interanual Capital 2015->2016 (99.77%)"
+Check -Id "CBA-MPF-GAP" -Computed ([math]::Round(2293 / 4, 0)) -Reported 573 -Tolerance 1 -Note "brecha MPF sumarios (2293) vs SNIC hechos (4) Capital 2018"
+
 # ==========================================================
 # RESUMEN
 # ==========================================================

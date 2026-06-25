@@ -75,3 +75,19 @@
 | 39 | Min. Justicia — Datos Abiertos sobre Género y Justicia | [Datos Jus](https://datos.jus.gob.ar/ro/blog/datos-abiertos-sobre-genero-y-justicia) ([archived](https://archive.is/save/https://datos.jus.gob.ar/ro/blog/datos-abiertos-sobre-genero-y-justicia)) |
 | 44 | Testimonio Congreso — Caso Carro (Córdoba, 2018) | [YouTube](https://www.youtube.com/watch?v=e6BaONT4RUw) ([archived](https://archive.is/save/https://www.youtube.com/watch?v=e6BaONT4RUw)) |
 
+### Marco A Córdoba — §14
+
+| # | Fuente | URL |
+|---|---|---|
+| 45 | SENAF-UNICEF 2020 — Relevamiento nacional MPE | [PDF](https://www.argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf) ([archived](https://archive.is/save/https://www.argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf)) |
+| 46 | SNIC — Series provinciales CSV | [CSV](https://infra.datos.gob.ar/catalog/seguridad/dataset/2/distribution/2.6/download/snic-provincias-delitos-personas-hechos-series.csv) ([archived](https://archive.is/save/https://infra.datos.gob.ar/catalog/seguridad/dataset/2/distribution/2.6/download/snic-provincias-delitos-personas-hechos-series.csv)) |
+| 47 | UNQ Cadenazzi (2017) — DIS Córdoba Capital 2008-2014 | [RIDAA-UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560) ([archived](https://archive.is/save/https://ridaa.unq.edu.ar/handle/20.500.11807/560)) |
+| 48 | SNIC — Informe provincial Córdoba 2024 | [PDF](https://cloud-snic.minseg.gob.ar/Informes/SNIC_PROVINCIALES/2024/Informe_SNIC_Cordoba_2024.pdf) ([archived](https://archive.is/save/https://cloud-snic.minseg.gob.ar/Informes/SNIC_PROVINCIALES/2024/Informe_SNIC_Cordoba_2024.pdf)) |
+| 49 | MPF Córdoba — Memoria Anual 2024 | [PDF](https://drive.google.com/file/d/1yP55kKbmw1flQ9TcA7adCH3xuguiI2hi/view) |
+| 50 | SICVG — VioGén tablero nacional | [Tablero](https://tablerosicvg.mingeneros.gob.ar/) |
+| 51 | Villagra & Sequeira (2019) — MPE Córdoba Capital 2013-2014 | [UNC](https://ridaa.unq.edu.ar/handle/20.500.11807/560) ([archived](https://archive.is/save/https://ridaa.unq.edu.ar/handle/20.500.11807/560)) |
+| 52 | Banco Mundial (2020) — VG en Provincia de Córdoba: Avances y Desafíos | [PDF](https://documents1.worldbank.org/curated/en/971211600236778385/pdf/Violencia-de-G%C3%A9nero-en-la-Provincia-de-C%C3%B3rdoba-Avances-y-Desaf%C3%ADos.pdf) ([archived](https://archive.is/save/https://documents1.worldbank.org/curated/en/971211600236778385/pdf/Violencia-de-G%C3%A9nero-en-la-Provincia-de-C%C3%B3rdoba-Avances-y-Desaf%C3%ADos.pdf)) |
+| 53 | Caso Ángel López — Denuncia falsa Polo de la Mujer (2026) | [Derecho Diario](https://derechodiario.com.ar/cordoba/cordoba-investigan-denuncia-falsa-polo-mujer-precedio-caso-angel-lopez) ([archived](https://archive.is/save/https://derechodiario.com.ar/cordoba/cordoba-investigan-denuncia-falsa-polo-mujer-precedido-caso-angel-lopez)) |
+| 54 | Caso Ángel López — Testimonio del padre | [El Doce TV](https://eldoce.tv/actualidad/2026/04/13/el-papa-de-angel-revelo-que-la-madre-lo-denuncio-en-cordoba-por-una-falsa-denuncia-mi-hijo-esta-muerto/) ([archived](https://archive.is/save/https://eldoce.tv/actualidad/2026/04/13/el-papa-de-angel-revelo-que-la-madre-lo-denuncio-en-cordoba-por-una-falsa-denuncia-mi-hijo-esta-muerto/)) |
+| 55 | SNIC — Base Departamental Anual CSV (auditoría sub-provincial) | [CSV](https://cloud-snic.minseg.gob.ar/Bases/SNIC/snic-departamentos-anual.csv) |
+

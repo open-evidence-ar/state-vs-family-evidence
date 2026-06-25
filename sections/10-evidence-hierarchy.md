@@ -5,7 +5,7 @@
 |---|---|
 | 9.840 / 13.176 / 33.763 / 3.182 / 4.474 (OVD) | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 71% varones / 66% padres / 66% acercamiento | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
-| 220.317 medidas RVF PBA | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
+| 220.317 medidas RVF PBA (solo Fuero Familia, art. 7) | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 3.219 víctimas / 56,5% familiar | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 1.819 víctimas intrafamiliares | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | 7.517 FD / 588 VG/VI / 8.254.672 penal | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
@@ -25,6 +25,17 @@
 | 19.927 IPP abuso sexual PBA 2024 | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 36.593 víctimas SNIC 2024 integridad sexual | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 43.243 víctimas SNIC 2022 | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
+| 1.107 NNyA MPE Córdoba (SENAF 2020) | <span class="badge badge-observado" title="Dato directo SENAF-UNICEF 2020">◎ Observado</span> |
+| 977 hechos DIS Córdoba 2020 (SNIC) | <span class="badge badge-observado" title="Dato directo SNIC">◎ Observado</span> |
+| 72,55% NNyA 0-16 sobre casos con dato etario (UNQ Cadenazzi) | <span class="badge badge-observado" title="Dato micro UNQ 2008-14">◎ Observado</span> |
+| ~709 NNyA DIS Córdoba (977 × 72,55%) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados con proxy">◇ Derivado</span> |
+| Ratios Marco A Córdoba (1,13–1,84 : 1) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados con proxy etario">◇ Derivado</span> |
+| SeNAF maltrato Capital 56,4% / Interior 43,6% (1H2022, fuente indirecta — PDF 404) | <span class="badge badge-derivado" title="Cálculo sobre datos SeNAF CV citados; original inaccesible">◇ Derivado</span> |
+| UJ DIS Capital-only (confirmado: guía Grooming Córdoba 2016) | <span class="badge badge-observado" title="Confirmado por fuente oficial provincial">◎ Observado</span> |
+| Denuncias VF Córdoba 50,56/49,44 Capital/Interior (PJ Córdoba 2018-2019) | <span class="badge badge-observado" title="Poder Judicial Córdoba, Informe VF 2018-2019">◎ Observado</span> |
+| SNIC Departamental 2020: Capital=9, Interior=968 hechos DIS (inconsistente con CSV provincial share) | <span class="badge badge-observado" title="SNIC Departamental CSV capital=0,92%; incompatible con ~42% poblacional">◎ Observado</span> |
+| Cambio de régimen Capital 2015→2016: 1.296→3 hechos (caída >99%) | <span class="badge badge-observado" title="Serie SNIC departamental; colapso sin explicación documental en 2016">◎ Observado</span> |
+| Brecha MPF Capital 2018: 2.293 sumarios UJ DIS vs 4 hechos SNIC departamental (factor 573×) | <span class="badge badge-observado" title="MPF confirmado por MPF+ElDoce">◎ Observado</span> / <span class="badge badge-observado" title="SNIC departamental CSV, departamento Capital, delito 10+11">◎ Observado</span> — gap de tres órdenes de magnitud |
 | Ratios Marco A y B | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | Ratios Marco B ajustados (injustificadas/condena) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | Extrapolación territorial (~15×) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |

@@ -30,7 +30,7 @@ El §13 amplía la lectura con un **marco institucional complementario** (Teorí
 | Incentivo estructural de instrumentalización descrito en §13.5 | La asimetría es persistente y se autorrefuerza por diseño procesal | — |
 | Brecha aritmética entre FD computadas y FD potenciales en archivos (§13.4.2c) | El daño potencial por inducción de monoparentalidad (557–3.853 NNyA) no es descartable | — | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 
-El estudio es **descriptivo y generador de hipótesis**. Utiliza supuestos explícitos donde no hay dato oficial, siempre etiquetados. Lo que **no se puede confirmarse** requiere datos que el sistema no publica: el estudio no interpreta esa ausencia como inocencia — la trata como evidencia de monopolio informativo del propio sistema (§13.3).
+El estudio es **descriptivo y generador de hipótesis**. Utiliza supuestos explícitos donde no hay dato oficial, siempre etiquetados. Lo que **no se puede confirmar** requiere datos que el sistema no publica: el estudio no interpreta esa ausencia como inocencia — la trata como evidencia de monopolio informativo del propio sistema (§13.3).
 
 ### Tabla central (con nivel de evidencia)
 
@@ -47,6 +47,8 @@ El estudio es **descriptivo y generador de hipótesis**. Utiliza supuestos expl�
 | Marco B: extrapolación nacional estimada (CABA ×15) | 33 : 1 | 89 : 1 | 33.500 : 1 | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | NNyA potencialmente afectados por FD (daño por inducción de monoparentalidad) | 557 | 2.631 | 3.853 | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> / <span class="badge badge-supuesto" title="Parámetro sin fuente directa">△ Supuesto</span> |
 | FD no computadas en archivos PBA — Análisis de Sensibilidad (§13.4.2c) | 600 (5% de 12.000) | 1.200 (10% de 12.000) | 2.400 (20% de 12.000) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> / <span class="badge badge-supuesto" title="Parámetro sin fuente directa">△ Supuesto</span> |
+| **Marco A Córdoba: ratio NNyA / víctima (Escenario B, §14)** | **1,13 : 1** | **1,56 : 1** | **1,84 : 1** | <span class="badge badge-observado" title="Dato directo SENAF 2020">◎ Observado</span> / <span class="badge badge-derivado" title="Proxy etario UNQ 2008-14">◇ Derivado</span> (denominador 709 = 977 × 72,55%) |
+| **Marco A Córdoba sub-provincial Capital/Interior (§14.9)** | **No computable** | **No computable** | — | <span class="badge badge-exploratorio" title="SNIC departamental internamente inconsistente; Capital 9 hechos 2020; régimen colapsado 2016+">○ Exploratorio / Opacidad estadística</span> — ver §14.9.1–14.9.7 |
 
 \*Santa Fe: 48/78 casos clasificados (18% del total provincial). Ver §4.
 

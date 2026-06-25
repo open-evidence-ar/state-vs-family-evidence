@@ -65,7 +65,7 @@ El **0,09%** responde a: *¿qué fracción de toda la conflictividad penal son F
 | Numerador | FD totales | FD-VG/VI dentro de FD clasificadas |
 | Denominador | Universo penal total (8.254.672) | FD clasificadas (6.609) o por jurisdicción (e.g., Santa Fe 78) |
 | Pregunta que responde | Qué tan comunes son las FD penales | Qué proporción de las FD son VG/VI |
-| Lectura convencional | "Sólo 0,09% de casos penales son FD" | "8,9% de las FD clasificadas son VG/VI; hasta 61,5% en Santa Fe" |
+| Lectura convencional | "Solo 0,09% de casos penales son FD" | "8,9% de las FD clasificadas son VG/VI; hasta 61,5% en Santa Fe" |
 | Conclusión | FD no es un fenómeno masivo sobre el universo penal | La **composición temática** de las FD muestra fuerte heterogeneidad jurisdiccional |
 
 **Sustento cuantitativo de la separación:** en Santa Fe, 48 FD-VG/VI sobre 440 totales = **11%** de todas las FD provinciales. Sobre **clasificadas** (78) = 61,5%. La diferencia entre 11% y 61,5% es el efecto del sesgo de clasificación. Esta brecha es lo que el Intervalo A mide en agregado nacional (0,09%) pero sin clasificar — y es por qué el "intervalo operativo" del informe no fusiona A con B en una sola banda.
@@ -74,7 +74,7 @@ El **0,09%** responde a: *¿qué fracción de toda la conflictividad penal son F
 
 Promedio ponderado de jurisdicciones con **clasificación completa** (sin casos "sin datos") y tasas altas de VG/VI: CABA, Chaco y Tierra del Fuego.
 
-{% include tags/calculo.html formula="(42 + 33 + 5) / (108 + 76 + 9)" resultado="80 / 193 = 41,5% ≈ 42%" nota="<span class='badge badge-derivado' title='Aritmetica reproducible sobre observados'>◇ Derivado</span> — delimita un rango intermedio; no es estimación central nacional" %}
+{% include tags/calculo.html formula="(42 + 33 + 5) / (108 + 76 + 9)" resultado="80 / 193 = 41,5% ≈ 42%" nota="<span class='badge badge-derivado' title='Aritmética reproducible sobre observados'>◇ Derivado</span> — delimita un rango intermedio; no es estimación central nacional" %}
 
 #### Santa Fe como techo operativo del Intervalo B (61,5%)
 

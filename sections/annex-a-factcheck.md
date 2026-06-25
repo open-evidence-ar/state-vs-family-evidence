@@ -1,4 +1,4 @@
-## Anexo A — Verificación rápida (fact-check)
+# Anexo A — Verificación rápida (fact-check)
 {: #anexo-a-factcheck}
 
 | # | Afirmación | Valor | Escenario | Evidencia | URL |
@@ -29,3 +29,19 @@
 | 24 | IPP abuso sexual PBA 2024 | 19.927 | Observado | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> | [MPBA](https://www.mpba.gov.ar/novedad/2355) |
 | 25 | SNIC víctimas integridad sexual 2022 | 43.243 | Observado | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> | [SNIC](https://www.argentina.gob.ar/seguridad/estadisticascriminales) |
 | 26 | SNIC víctimas integridad sexual 2024 | 36.593 | Observado | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> | [SNIC](https://www.argentina.gob.ar/seguridad/estadisticascriminales) |
+| 27 | NNyA con MPE Córdoba (SENAF 2020) | 1.107 | — | <span class="badge badge-observado" title="Dato directo SENAF-UNICEF 2020">◎ Observado</span> | [SENAF](https://www.argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf) |
+| 28 | Hechos DIS Córdoba 2020 (SNIC) | 977 | — | <span class="badge badge-observado" title="Dato directo SNIC">◎ Observado</span> | [SNIC](https://infra.datos.gob.ar/catalog/seguridad/dataset/2/distribution/2.6/download/snic-provincias-delitos-personas-hechos-series.csv) |
+| 29 | % NNyA 0-16 sobre casos con dato etario (UNQ Cadenazzi) | 72,55% | Proxy etario | <span class="badge badge-observado" title="Dato micro UNQ 2008-14">◎ Observado</span> | [UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560) |
+| 30 | Marco A Córdoba ratio (Escenario B) | 1,56 : 1 | — | <span class="badge badge-observado" title="Numerador SENAF ◎">◎ Observado</span> / <span class="badge badge-derivado" title="Denominador con proxy UNQ ◇">◇ Derivado</span> | 1.107 / 709 |
+| 31 | Origen MPE Córdoba: SENAF 96%, UDER 4% | 96% / 4% | Observado | <span class="badge badge-observado" title="Dato directo de informe académico">◎ Observado</span> | [51] |
+| 32 | MPE sin medidas ordinarias previas (Córdoba) | 76% | Observado | <span class="badge badge-observado" title="Dato directo de informe académico">◎ Observado</span> | [51] |
+| 33 | NNyA no entrevistado antes de MPE (Córdoba) | 54% | Observado | <span class="badge badge-observado" title="Dato directo de informe académico">◎ Observado</span> | [51] |
+| 34 | Caso Ángel López — denuncia falsa Polo → muerte NNyA (2026) | Periodismo | No oficial | <span class="badge badge-supuesto" title="Dato periodístico, no oficial">△ Supuesto</span> | [53, 54] |
+| 35 | SeNAF maltrato Capital 56,4% / Interior 43,6% (1H2022, fuente indirecta PDF 404) | 264 / 204 (esti.) | — | <span class="badge badge-derivado" title="Cálculo sobre datos SeNAF CV citados; original 404">◇ Derivado</span> | [11] |
+| 36 | UJ DIS Capital-only (confirmado) | Sí | 1ª Circunscripción | <span class="badge badge-observado" title="Confirmado por guía Grooming Córdoba 2016">◎ Observado</span> | [13] |
+| 37 | Denuncias VF Córdoba 50,56/49,44 Capital/Interior | 50,56% / 49,44% | 2018-2019 | <span class="badge badge-observado" title="Poder Judicial Córdoba, Informe VF 2018-2019">◎ Observado</span> | [12] |
+| 38 | SNIC Departamental 2020: Capital DIS hechos | 9 | 0,92% del total | <span class="badge badge-observado" title="SNIC Departamental CSV; inconsistente con población ~42% Capital">◎ Observado</span> | [15] |
+| 39 | SNIC Departamental 2020: Interior DIS hechos | 968 | 99,08% del total | <span class="badge badge-observado" title="SNIC Departamental CSV">◎ Observado</span> | [15] |
+| 40 | Cambio régimen Capital: 1.296 (2015) → 3 (2016) | Caída 99,8% | Colapso sin explicación | <span class="badge badge-observado" title="Serie SNIC departamental 2000-2025">◎ Observado</span> | [15] |
+| 41 | Brecha MPF vs SNIC Capital 2018: 2.293 sumarios vs 4 hechos | Factor 573× | Tres órdenes de magnitud | <span class="badge badge-observado" title="MPF 2018 informe + ElDoce">◎ Observado</span> / <span class="badge badge-observado" title="SNIC departamental CSV">◎ Observado</span> | [13, 15] |
+| 42 | Veredicto: Marco A sub-provincial NO computable | n/a | Opacidad es el hallazgo | <span class="badge badge-exploratorio" title="Auditoría de consistencia reveló datos internamente contradictorios">○ Exploratorio</span> | §14.9.6 |

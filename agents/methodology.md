@@ -34,9 +34,10 @@ This file is loaded on demand from `AGENTS.md §3`. Do not read unless:
 21. §10 Trazabilidad y jerarquía de evidencia (sections/10-evidence-hierarchy.md)
 22. §11 Conclusiones                 (sections/11-conclusions.md)
 23. Revisiones                       (sections/section-revisions.md)
-24. §12 Fuentes primarias            (sections/12-sources.md)
-25. Anexo A — Fact-check             (sections/annex-a-factcheck.md)
-26. Anexo B — Glosario de denominadores FD (sections/annex-a-factcheck.md)
+  24. §12 Fuentes primarias            (sections/12-sources.md)
+  25. §14 Marco A Córdoba — réplica jurisdiccional (sections/14-marco-cordoba.md)
+  26. Anexo A — Fact-check             (sections/annex-a-factcheck.md)
+  27. Anexo B — Glosario de denominadores FD (sections/annex-a-factcheck.md)
 ```
 
 Any reordering must mirror PE's original structure. See section 4 in https://project-evidence.github.io for the reference order.

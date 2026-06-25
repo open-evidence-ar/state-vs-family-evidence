@@ -11,6 +11,6 @@
 
 ### 3.2. Derivación reproducible
 
-{% include tags/calculo.html formula="3.219 × 56,5%" resultado="≈ 1.819 víctimas observadas de abuso sexual intrafamiliar" nota="<span class='badge badge-derivado' title='Aritmetica reproducible sobre observados'>◇ Derivado</span>" %}
+{% include tags/calculo.html formula="3.219 × 56,5%" resultado="≈ 1.819 víctimas observadas de abuso sexual intrafamiliar" nota="<span class='badge badge-derivado' title='Aritmética reproducible sobre observados'>◇ Derivado</span>" %}
 
 **Limitación:** periodo 2020–2021 vs OVD 2024. No son muestras estrictamente concurrentes; el ratio Marco A es indicativo, no panel longitudinal.
