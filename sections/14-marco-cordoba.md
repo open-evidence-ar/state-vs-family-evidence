@@ -50,7 +50,7 @@ Esta sección replica la lógica del Marco A en la **Provincia de Córdoba** (cu
 
 #### 14.3.2 Reconstrucción del subconjunto NNyA — dato micro UNQ Cadenazzi (2008-2014, Córdoba Capital)
 
-**Fuente:** Cadenazzi, N.V. (2017). *Estudio descriptivo de los delitos y las víctimas a través de los hechos denunciados en la Unidad Judicial de Delitos Contra la Integridad Sexual del MPF de la Provincia de Córdoba, 2008-2014*. [TFI — Universidad Nacional de Quilmes, RIDAA-UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560), Tabla N° 4 (p.23), distribución por grupo etario.
+**Fuente:** Cadenazzi, N.V. (2017). *Estudio descriptivo de los delitos y las víctimas a través de los hechos denunciados en la Unidad Judicial de Delitos Contra la Integridad Sexual del MPF de la Provincia de Córdoba, 2008-2014*. [TFI — Universidad Nacional de Quilmes, RIDAA-UNQ](https://rdu.unc.edu.ar/handle/11086/551650), Tabla N° 4 (p.23), distribución por grupo etario.
 
 | Grupo etario | Víctimas Capital DIS 2008-2014 | % del total (9.864) | % sobre casos con dato de edad (N=8.362, excl. 1.502 "sin datos") |
 |---|---:|---:|---:|
@@ -135,7 +135,7 @@ En **CABA**, el numerador del Marco A proviene de la OVD (CSJN) — organismo ju
 |---|---|---|---|
 | 1. Inicio | **Polo Integral de la Mujer** (Unidad Judicial de Violencia Familiar — MPF) | Recibe denuncia VF; evalúa riesgo; aloja mujer e hijos en Refugio | [Banco Mundial 2020, p.4-5](https://documents1.worldbank.org/curated/en/971211600236778385/pdf/Violencia-de-G%C3%A9nero-en-la-Provincia-de-C%C3%B3rdoba-Avances-y-Desaf%C3%ADos.pdf) |
 | 2. Derivación | **Polo → SENAF** | Comunica la situación a SENAF vía oficio ("pone en conocimiento") | Protocolo SENAF-Polo (CPSSCBA, Anexo-62) |
-| 3. Decisión formal | **SENAF** (art. 48 Ley 9.944) | Director de Asuntos Legales firma la Disposición (MPE) | [Villagra & Sequeira 2019, p.12](https://ridaa.unq.edu.ar/handle/20.500.11807/560) |
+| 3. Decisión formal | **SENAF** (art. 48 Ley 9.944) | Director de Asuntos Legales firma la Disposición (MPE) | [Villagra & Sequeira 2019, p.12](https://rdu.unc.edu.ar/handle/11086/551650) |
 | 4. Ejecución | **SENAF** | Retira al NNyA del centro de vida; lo ubica en familia extensa, acogimiento o residencia | Ley 9.944 art. 48-55 |
 | 5. Control | **Juez de Niñez** | Control de legalidad *ex post* (24-72 hs); **sin efecto suspensivo** | Villagra 2019, p.13; Ley 9.944 art. 55 |
 
@@ -253,7 +253,7 @@ La *oferta* de intervención sobre NNyA documentada por SENAF sí muestra sesgo 
 |---|---:|---:|---:|:|---|---|
 | SENAF maltrato total (1H2022) | 264 | 204 | 56,4% | 2022 | [SENAF CV PDF — 404](https://www.cba.gov.ar/wp-content/uploads/2022/07/Linea102_1erSem2022.pdf) (citado por terceros) | <span class="badge badge-derivado" title="Fuente original inaccesible; citado por fuentes secundarias">◇ Derivado</span> |
 | Llamados Línea 102 (2020) | 72% | 28% | 72% | 2020 | [SENAF 2020 p.X](https://www.argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf) | <span class="badge badge-observado" title="Dato directo SENAF-UNICEF 2020">◎ Observado</span> |
-| Acogimiento NNyA (~2015) | 70 | 36 | 66% | ~2015 | DDNA Córdoba, citado en [Villagra & Sequeira 2019](https://ridaa.unq.edu.ar/handle/20.500.11807/560) | <span class="badge badge-derivado" title="Datos DDNA citados por Villagra 2019; informe original no disponible">◇ Derivado</span> |
+| Acogimiento NNyA (~2015) | 70 | 36 | 66% | ~2015 | DDNA Córdoba, citado en [Villagra & Sequeira 2019](https://rdu.unc.edu.ar/handle/11086/551650) | <span class="badge badge-derivado" title="Datos DDNA citados por Villagra 2019; informe original no disponible">◇ Derivado</span> |
 
 **Lectura:** la *oferta* institucional sesga 56-72% hacia Capital; la *demanda* no. Esta asimetría OFERTA > DEMANDA sugiere Capital "produce" intervención sobre NNyA per cápita a un ritmo mayor que Interior, **no por mayor sufrimiento infantil en Capital**, sino por mayor disponibilidad de dispositivos institucionales (Polo, SED, UJ DIS) en la 1ª Circunscripción.
 
@@ -359,7 +359,7 @@ Este hallazgo sub-provincial **fortalece** la conclusión general del estudio:
 
 **Paso 3 — Proxy etario: Porcentaje NNyA 0-16 en víctimas DIS (UNQ Cadenazzi, Tabla 4).**
 
-1. Descargar el TFI: [Cadenazzi (2017) en RIDAA-UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560). PDF completo, ~2 MB.
+1. Descargar el TFI: [Cadenazzi (2017) en RIDAA-UNQ](https://rdu.unc.edu.ar/handle/11086/551650). PDF completo, ~2 MB.
 2. Ir a **p.23**, **Tabla N° 4** "Distribución por grupo etario de las víctimas".
 3. Leer los valores por grupo:
    - 0-4 años: **909**
@@ -424,7 +424,7 @@ Este hallazgo sub-provincial **fortalece** la conclusión general del estudio:
 
 **Paso 8 — DDNA acogimiento Capital vs. Interior (~2015).**
 
-1. Descargar el TFI: [Villagra & Sequeira (2019)](https://ridaa.unq.edu.ar/handle/20.500.11807/560). PDF completo, ~2 MB.
+1. Descargar el TFI: [Villagra & Sequeira (2019)](https://rdu.unc.edu.ar/handle/11086/551650). PDF completo, ~2 MB.
 2. Localizar la sección donde se citan datos de la **DDNA (Dirección de Niñez, Adolescencia y Familia)** sobre niños en acogimiento.
 3. Leer los valores: **Capital ≈ 70 niños en acogimiento**, **Interior ≈ 36**.
 4. Calcular share Capital: `70 / (70 + 36) = 70 / 106 = 0,66…` → **~66%**.
@@ -725,18 +725,18 @@ El INDEC publicó en agosto de 2016 el anexo "[Anexo informe EPH 23_08_16](https
 |---|---|---|---|
 | 1 | SENAF-UNICEF 2020 (PDF, p.16, p.59-70) | [argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf](https://www.argentina.gob.ar/sites/default/files/2020/09/situacion_de_nnya_sin_cuidados_parentales_-_2020_03.05_1.pdf) | 2026-06-24 |
 | 2 | SNIC Series provinciales CSV | [infra.datos.gob.ar/catalog/seguridad/dataset/2/distribution/2.6/download/snic-provincias-delitos-personas-hechos-series.csv](https://infra.datos.gob.ar/catalog/seguridad/dataset/2/distribution/2.6/download/snic-provincias-delitos-personas-hechos-series.csv) | 2026-06-24 |
-| 3 | UNQ Cadenazzi (2017) TFI | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://ridaa.unq.edu.ar/handle/20.500.11807/560) | 2026-06-24 |
+| 3 | UNQ Cadenazzi (2017) TFI | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://rdu.unc.edu.ar/handle/11086/551650) | 2026-06-24 |
 | 4 | SNIC Informe Córdoba 2024 (PDF) | [cloud-snic.minseg.gob.ar/Informes/SNIC_PROVINCIALES/2024/Informe_SNIC_Cordoba_2024.pdf](https://cloud-snic.minseg.gob.ar/Informes/SNIC_PROVINCIALES/2024/Informe_SNIC_Cordoba_2024.pdf) | 2026-06-24 |
 | 5 | MPF Córdoba Memoria Anual 2024 (PDF) | [drive.google.com/file/d/1yP55kKbmw1flQ9TcA7adCH3xuguiI2hi/view](https://drive.google.com/file/d/1yP55kKbmw1flQ9TcA7adCH3xuguiI2hi/view) | 2026-06-24 |
 | 6 | VioGén tablero nacional | [tablerosicvg.mingeneros.gob.ar](https://tablerosicvg.mingeneros.gob.ar/) | 2026-06-24 |
-| 7 | Villagra & Sequeira (2019) — MPE Córdoba Capital | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://ridaa.unq.edu.ar/handle/20.500.11807/560) | 2026-06-24 |
+| 7 | Villagra & Sequeira (2019) — MPE Córdoba Capital | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://rdu.unc.edu.ar/handle/11086/551650) | 2026-06-24 |
 | 8 | Banco Mundial (2020) — VG Provincia de Córdoba | [documents1.worldbank.org](https://documents1.worldbank.org/curated/en/971211600236778385/pdf/Violencia-de-G%C3%A9nero-en-la-Provincia-de-C%C3%B3rdoba-Avances-y-Desaf%C3%ADos.pdf) | 2026-06-24 |
 | 9 | Caso Ángel López — Denuncia falsa Polo (2026) | [derechodiario.com.ar](https://derechodiario.com.ar/cordoba/cordoba-investigan-denuncia-falsa-polo-mujer-precedido-caso-angel-lopez) | 2026-06-24 |
 | 10 | Caso Ángel López — Testimonio del padre | [eldoce.tv](https://eldoce.tv/actualidad/2026/04/13/el-papa-de-angel-revelo-que-la-madre-lo-denuncio-en-cordoba-por-una-falsa-denuncia-mi-hijo-esta-muerto/) | 2026-06-24 |
 | 11 | SENAF CV Línea 102 — 1er semestre 2022 (PDF no accesible, citado por terceros) | [cba.gov.ar/102](https://www.cba.gov.ar/102-la-linea-de-los-chicos-y-las-chicas/); informe original: `Linea102_1erSem2022.pdf` [404](https://www.cba.gov.ar/wp-content/uploads/2022/07/Linea102_1erSem2022.pdf) | 2026-06-24 — fuente inaccesible |
 | 12 | Poder Judicial Córdoba — Informe VF 2018-2019 (Form. AR 1300) | [justiciacordoba.gob.ar/portal/estadisticas/](https://www.justiciacordoba.gob.ar/portal/estadisticas/) | 2026-06-24 |
 | 13 | MPF Córdoba — Informe estadístico DIS 2018 (sumarios = 2.293 ◎) | [mpfcordoba.gob.ar](https://www.mpfcordoba.gob.ar/el-ministerio-publico-fiscal-dio-a-conocer-el-informe-estadistico-2018-sobre-delitos-contra-la-integridad-sexual-en-la-provincia/) — citado en [ElDoce](https://eldoce.tv/sociedad/en-2018-los-delitos-contra-integridad-sexual-crecieron-casi-un-30-en-cordoba-hubo-245-violaciones-acceso-carnal-informe-estadisticas-denuncias_93201/) | 2026-06-24 |
-| 14 | DDNA Córdoba — datos de acogimiento (citado en Villagra 2019) | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://ridaa.unq.edu.ar/handle/20.500.11807/560) | 2026-06-24 |
+| 14 | DDNA Córdoba — datos de acogimiento (citado en Villagra 2019) | [ridaa.unq.edu.ar/handle/20.500.11807/560](https://rdu.unc.edu.ar/handle/11086/551650) | 2026-06-24 |
 | 15 | INDEC — EPH Continua, microdatos base hogar (2010–2024) | [indec.gob.ar/ftp/cuadros/menusuperior/eph/](https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/) | 2026-06-25 — datos procesados con librería `pyeph` |
 | 16 | INDEC — Anexo metodológico EPH agosto 2016 (advertencia series 2007–2015) | [anexo_informe_eph_23_08_16.pdf](https://www.indec.gob.ar/ftp/cuadros/sociedad/anexo_informe_eph_23_08_16.pdf) | 2026-06-25 |
 | 17 | CEDLAS-GenLAC — Porcentaje de hogares monoparentales (Argentina, nacional) | [genlac-graphics.econo.unlp.edu.ar/familia_spanish/porcen-hog-mono](https://genlac-graphics.econo.unlp.edu.ar/familia_spanish/porcen-hog-mono) | 2026-06-25 |
