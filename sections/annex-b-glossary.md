@@ -10,4 +10,4 @@
 
 ---
 
-*Última revisión de fuentes: junio 2026. Versión 1.0.0.*
+*Última revisión de fuentes: junio 2026. Versión 1.4.1.*

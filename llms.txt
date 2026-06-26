@@ -1,6 +1,6 @@
 # Medidas Cautelares, Conflictividad Intrafamiliar, Victimización Infantil e Intensidad de Intervención Estatal en Argentina
 
-> Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales — Versión 1.0.0. Analiza la asimetría de escala entre intervenciones cautelares familiares (OVD 2024, CABA/federal), victimización infantil intrafamiliar observada (UNICEF/Línea 137), condenas penales (RNR/UFEM) y falsas denuncias (OVG 2026). Publicado como single-page Jekyll en GitHub Pages con firma PGP.
+> Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales — Versión 1.4.1. Analiza la asimetría de escala entre intervenciones cautelares familiares (OVD 2024, CABA/federal), victimización infantil intrafamiliar observada (UNICEF/Línea 137), condenas penales (RNR/UFEM) y falsas denuncias (OVG 2026). Publicado como single-page Jekyll en GitHub Pages con firma PGP.
 
 Idioma: español. País: Argentina. Badges de evidencia: Observado, Derivado, Supuesto, Exploratorio. Secciones §0–§11 = núcleo empírico; §13 = marco interpretativo (Public Choice); anexos = fact-check y glosario de denominadores FD.
 

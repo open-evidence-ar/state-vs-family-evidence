@@ -5,7 +5,7 @@ description: "Estudio descriptivo con trazabilidad de evidencia, intervalos veri
 ---
 
 <h1 class="title">Medidas Cautelares, Conflictividad Intrafamiliar, Victimización Infantil e Intensidad de Intervención Estatal en Argentina</h1>
-<p class="subtitle">Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales · Versión 1.0.0</p>
+<p class="subtitle">Estudio descriptivo con trazabilidad de evidencia, intervalos verificables y fuentes oficiales · Versión 1.4.1</p>
 <hr>
 
 *[Descargar archivo completo](archive.zip) · [Clave pública PGP](public.pem) · [Integridad](integrity.txt) · [Índice LLM](llms.txt) · [Texto completo LLM](llms-full.txt)*
