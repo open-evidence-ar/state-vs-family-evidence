@@ -113,6 +113,22 @@ La Provincia de Santa Fe se convirtió en el epicentro del debate legislativo so
 
 **Nota de alcance:** la existencia de estos proyectos legislativos demuestra que el debate sobre FD-VG/VI y la automatización cautelar es **políticamente activo** en Argentina. Informar sobre los proyectos no implica apoyarlos ni rechazarlos: su inclusión aquí es descriptiva, como evidencia de que la asimetría documentada en §4 y §5 ha alcanzado la agenda legislativa.
 
+#### 13.4.5 Asimetría probatoria: facilitar la apertura vs. dificultar la impugnación
+{: #asimetria-probatoria}
+
+El contra-argumento de que los archivos podrían contener casos reales que el sistema no detectó presupone que el sistema es suficientemente confiable para *no detectar* victimización real, pero simultáneamente suficientemente confiable para *excluir* denuncias infundadas. Esta doble dependencia es insostenible por una asimetría estructural en la carga probatoria:
+
+| Dirección | Qué se necesita | Estándar |
+|---|---|---|
+| **Probar culpabilidad** (abrir cautelar) | Testimonio "creíble" + validación psicológica subjetiva (cámara Gesell) | Bajo — basta que el relato sea consistente internamente |
+| **Probar falsedad** (impugnar caso archivado) | Evidencia del mundo real que invalide el testimonio verbal | Alto — debe desacreditar activamente lo que el sistema ya aceptó |
+
+El diseño procesal (tutela judicial efectiva + prevención del riesgo) prioriza la protección inmediata sobre la verificación probatoria. Consecuencia: el sistema genera un flujo unidireccional de casos hacia archivos, donde las denuncias infundadas quedan sepultadas sin registro de su naturaleza. Para iniciar una cautelar basta un relato "creíble"; para demostrar que ese relato fue falso, se requiere una investigación activa que el sistema no realiza de oficio (§13.4.2).
+
+En esas condiciones, asumir que los ~12.000–18.500 archivos PBA contienen exclusivamente denuncias legítimas es una **presunción institucional**, no un hecho empírico verificable. La carga probatoria asimétrica hace que la categoría "casos archivados sin FD" sea una caja negra por diseño: el sistema facilita la apertura y dificulta la impugnación, pero luego presume que lo archivado era genuino. El Intervalo de Ignorancia (§13.4.2c) cuantifica ese volumen; la asimetría probatoria explica *por qué* el sistema no lo reduce espontáneamente.
+
+Badge: <span class="badge badge-derivado" title="Argumento lógico sobre datos observados">◇ Derivado</span> — la asimetría probatoria es observable en el diseño procesal documentado (ley 26.485, art. 7 ley 24.417, §13.4.3); la inferencia de que invalida la presunción de que lo archivado = casos reales es derivada.
+
 ---
 
 ### 13.5 Incentivo estructural de instrumentalización

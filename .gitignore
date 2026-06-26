@@ -14,6 +14,7 @@ evidence/
 agents/marco-a-cordoba-exploration.md
 scripts/_eph_cache/
 scripts/_eph_cache_nat/
+scripts/_ovd_cache/
 pyeph/
 scripts/__pycache__/
 __pycache__/
