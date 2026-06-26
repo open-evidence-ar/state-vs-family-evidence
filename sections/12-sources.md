@@ -90,4 +90,11 @@
 | 53 | Caso Ángel López — Denuncia falsa Polo de la Mujer (2026) | [Derecho Diario](https://derechodiario.com.ar/cordoba/cordoba-investigan-denuncia-falsa-polo-mujer-precedio-caso-angel-lopez) ([archived](https://archive.is/save/https://derechodiario.com.ar/cordoba/cordoba-investigan-denuncia-falsa-polo-mujer-precedido-caso-angel-lopez)) |
 | 54 | Caso Ángel López — Testimonio del padre | [El Doce TV](https://eldoce.tv/actualidad/2026/04/13/el-papa-de-angel-revelo-que-la-madre-lo-denuncio-en-cordoba-por-una-falsa-denuncia-mi-hijo-esta-muerto/) ([archived](https://archive.is/save/https://eldoce.tv/actualidad/2026/04/13/el-papa-de-angel-revelo-que-la-madre-lo-denuncio-en-cordoba-por-una-falsa-denuncia-mi-hijo-esta-muerto/)) |
 | 55 | SNIC — Base Departamental Anual CSV (auditoría sub-provincial) | [CSV](https://cloud-snic.minseg.gob.ar/Bases/SNIC/snic-departamentos-anual.csv) |
+| 56 | INDEC — EPH Continua, microdatos base hogar 2010–2024 | [FTP INDEC](https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/) ([archived](https://archive.is/save/https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/)) |
+| 57 | INDEC — Anexo metodológico EPH agosto 2016 | [PDF](https://www.indec.gob.ar/ftp/cuadros/sociedad/anexo_informe_eph_23_08_16.pdf) ([archived](https://archive.is/save/https://www.indec.gob.ar/ftp/cuadros/sociedad/anexo_informe_eph_23_08_16.pdf)) |
+| 58 | CEDLAS-GenLAC — Hogares monoparentales (Argentina) | [GenLAC](https://genlac-graphics.econo.unlp.edu.ar/familia_spanish/porcen-hog-mono) |
+| 59 | SENAF CV Línea 102 — 1er semestre 2022 (PDF inaccesible, citado por terceros) | [SeNAF CV](https://www.cba.gov.ar/102-la-linea-de-los-chicos-y-las-chicas/) — informe original `Linea102_1erSem2022.pdf` [404](https://www.cba.gov.ar/wp-content/uploads/2022/07/Linea102_1erSem2022.pdf) |
+| 60 | Poder Judicial Córdoba — Informe VF 2018-2019 (Form. AR 1300) | [justiciacordoba.gob.ar](https://www.justiciacordoba.gob.ar/portal/estadisticas/) |
+| 61 | MPF Córdoba — Informe estadístico DIS 2018 (sumarios = 2.293) | [mpfcordoba.gob.ar](https://www.mpfcordoba.gob.ar/el-ministerio-publico-fiscal-dio-a-conocer-el-informe-estadistico-2018-sobre-delitos-contra-la-integridad-sexual-en-la-provincia/) |
+| 62 | DDNA Córdoba — datos de acogimiento NNyA (citado en Villagra 2019) | [RIDAA-UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560) |
 

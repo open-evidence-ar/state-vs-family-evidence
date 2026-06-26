@@ -12,3 +12,11 @@ scripts/archive-results.csv
 weak-sources-catalog.md
 evidence/
 agents/marco-a-cordoba-exploration.md
+scripts/_eph_cache/
+scripts/_eph_cache_nat/
+pyeph/
+scripts/__pycache__/
+__pycache__/
+check_data.py
+check_data_fast.py
+check_data_final.py

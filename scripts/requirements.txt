@@ -1,0 +1,14 @@
+# EPH pipeline dependencies for §14.10 reproduction
+#
+# Install with: pip install -r scripts/requirements.txt
+#
+# Pinned ranges are deliberately tight (NOT exact) so that:
+# - patches and minor-version fixes still flow in
+# - major-version bumps (which would change CSV layouts / column names)
+#   require a manual review and update to the data-quality caveats in
+#   sections/14-marco-cordoba.md
+
+pyeph>=1.6,<2.0          # EPH microdata acquisition — touches INDEC FTP + GitHub Pages mirror
+pandas>=2.0,<3.0         # DataFrame ingestion — column schema depended upon
+matplotlib>=3.7,<4.0     # Chart rendering — visual output (SVG/PNG) depended upon
+numpy>=1.26,<3.0         # Numerical ops — PONDERA-weighted aggregations depend on it

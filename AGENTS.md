@@ -59,6 +59,7 @@ The project is consumed primarily through a single generated `index.html`. Verif
 | Touching `.github/workflows/deploy.yml` or crypto files | `agents/ci-workflow.md` |
 | Looking up Marco A/B, Capa 2/3/4, FD/VG-VI, Supuesto, etc. | `agents/glossary.md` |
 | Running `validate_ci.py`, debugging a failed METH check | `agents/validate-cheatsheet.md` |
+| Reproducing or auditing §14.10 EPH household-composition series | `agents/eph-pipeline.md` |
 
 The first time you read any file in `agents/`, read `agents/validate-cheatsheet.md` as well — it lists every METH check this project enforces.
 

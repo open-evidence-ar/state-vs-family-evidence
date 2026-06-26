@@ -39,6 +39,21 @@ sections/section-authors.md       (PE §2)  Sobre los autores
 sections/section-nomenclature.md  (PE §7)  Nomenclatura
 sections/section-counterclaims.md (PE §10) Argumentos contrarios
 sections/section-revisions.md     (PE §13) Revisiones
+sections/14-marco-cordoba.md     Marco A réplica jurisdiccional Córdoba
+                                 (incluye §14.10 serie temporal hogares
+                                 monoparentales EPH 2010–2024)
+
+scripts/build_eph_defB_genlac.py     Pipeline EPH → Definición B₂ (GenLAC-comparable), nacional + Córdoba, 2005–2025
+
+scripts/national_mono_defB_genlac.csv    Output: Nacional Def B₂ (2005–2025)
+scripts/cordoba_mono_defB_genlac.csv    Output: Gran Córdoba Def B₂ (2007–2025)
+scripts/national_mono_defB_genlac.md     Markdown summary, Def B₂ nacional
+scripts/cordoba_mono_defB_genlac.md     Markdown summary, Def B₂ CBA
+
+scripts/build_eph_chart.py           Genera gráfica hogares monoparentales
+
+assets/hogares_monoparentales_linea_temporal.svg   Gráfica ANUAL hogares monoparentales (2 series: CBA Def B₂ 2007–2025 + Nacional Def B₂ 2005–2025, 16 eventos institucionales)
+assets/hogares_monoparentales_linea_temporal.png   (fallback para RSS/email)
 ```
 
 ---
@@ -83,6 +98,12 @@ validate_ci.py                    local CI simulator, all 20 METH checks
 validate.py                       legacy structure validator (origin: missing-methodology.md)
 scripts/generate-pgp.sh           PGP key generator
 scripts/archive-sources.ps1       archive.is scraper
+scripts/build_eph_*.py            Microdatos EPH: 1 pipeline script
+                                  (defB_genlac: nacional 2005–2025 + CBA 2007–2025)
+                                  - ver §14.10 EPH hogares monoparentales
+scripts/requirements.txt          Pinned deps para reproducir la pipeline EPH
+agents/eph-pipeline.md            Cookbook reproducible EPH (1 stage)
+scripts/verify_reproducibility.py Smoke-test rerun / diff CSVs committed
 source-metadata.yml               author-time tracker (kept from original)
 ```
 
