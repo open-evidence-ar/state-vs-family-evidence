@@ -98,3 +98,23 @@
 | 61 | MPF Córdoba — Informe estadístico DIS 2018 (sumarios = 2.293) | [mpfcordoba.gob.ar](https://www.mpfcordoba.gob.ar/el-ministerio-publico-fiscal-dio-a-conocer-el-informe-estadistico-2018-sobre-delitos-contra-la-integridad-sexual-en-la-provincia/) |
 | 62 | DDNA Córdoba — datos de acogimiento NNyA (citado en Villagra 2019) | [RIDAA-UNQ](https://ridaa.unq.edu.ar/handle/20.500.11807/560) |
 
+### Incentivo estructural de transferencias — §13.5 Mecanismo 4
+
+| # | Fuente | URL |
+|---|---|---|
+| 63 | argentina.gob.ar — Programa Acompañar (compatibilidades e incompatibilidades) | [Argentina.gob.ar](https://www.argentina.gob.ar/generos/plan_nacional_de_accion_contra_las_violencias_por_motivos_de_genero/programa-acompanar) |
+| 64 | Decreto 755/2024 — Modificación Programa Acompañar (BO Nacional) | [Infobae](https://www.infobae.com/politica/2024/08/26/el-gobierno-modifico-un-programa-de-asistencia-a-victimas-violencia-de-genero/) — Decreto original: [Argentina.gob.ar PDF](https://www.argentina.gob.ar/sites/default/files/decreto%5F734%5Fprograma%5Facompanar.pdf) |
+| 65 | Decreto 2640/2025 — PBA Fortalecimiento para la Salida de las Violencias de Género (BO PBA) | [Cadena Nueve](https://www.cadenanueve.com/2025/11/14/la-provincia-crea-un-programa-de-apoyo-economico-para-mujeres-en-situacion-de-violencia/) ([archived](https://archive.is/save/https://www.cadenanueve.com/2025/11/14/la-provincia-crea-un-programa-de-apoyo-economico-para-mujeres-en-situacion-de-violencia/)) |
+| 66 | cba.gov.ar — Nueva Vida $28.000 (Resolución agosto 2023) | [CBA.gov.ar](https://www.cba.gov.ar/rige-el-aumento-del-cuarto-mes-de-licencia-por-maternidad/) |
+| 67 | Ley 24.714 — Asignación Universal por Hijo (AUH) | [Argentina.gob.ar](https://www.argentina.gob.ar/anses/asignacion-universal-por-hijo) |
+| 68 | Ley 27.613 — Tarjeta Alimentar | [Argentina.gob.ar](https://www.argentina.gob.ar/alimentar) |
+| 69 | Justicia Córdoba — "No es posible retirar la denuncia" (RJC) | [JusticiaCórdoba](https://rjc.justiciacordoba.gob.ar/base-conocimiento-rjc/violencia/violencia-familiar-genero/quiero-retirar-una-denuncia-de-violencia-familiar-que-hice-contra-mi-pareja-como-puedo-hacer/) |
+
+### Incentivo estructural — paralelo con bienestar estadounidense — §13.5 Mecanismo 4
+
+| # | Fuente | URL |
+|---|---|---|
+| 70 | Moynihan, D. (1965) — *The Negro Family: The Case for National Action* | [LBJ Library](https://www.lbjlibrary.org/the-moynihan-report/the-moynihan-report) ([archived](https://archive.is/save/https://www.lbjlibrary.org/the-moynihan-report/the-moynihan-report)) |
+| 71 | Sowell, T. (1981) — *Markets and Minorities* (Ch. 4: Welfare and the Family) | Basic Books |
+| 72 | Moffitt, R. (2015) — "The Deserving Poor, the Family, and the U.S. Welfare System" (*Demography*, 52(3), 729–749; NBER w21095) | [NBER](https://www.nber.org/papers/w21095) ([archived](https://archive.is/save/https://www.nber.org/papers/w21095)) |
+
