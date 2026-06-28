@@ -7,7 +7,8 @@
 | 71% varones / 66% padres / 66% acercamiento | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 220.317 medidas RVF PBA (solo Fuero Familia, art. 7) | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 3.219 víctimas / 56,5% familiar | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
-| 1.819 víctimas intrafamiliares | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
+| 1.819 víctimas intrafamiliares (nacional) | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
+| 646 víctimas intrafamiliares CABA-equivalentes (prorrateo 35,5%) | <span class="badge badge-derivado" title="1.819 × 35,5% (informe L137 2017–oct 2023)">◇ Derivado</span> |
 | 7.517 FD / 588 VG/VI / 8.254.672 penal | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |
 | 8,9% = 588/6.609 | <span class="badge badge-derivado" title="Aritmética reproducible sobre observados">◇ Derivado</span> |
 | 61,5% Santa Fe = 48/78 | <span class="badge badge-observado" title="Dato directo de informe oficial">◎ Observado</span> |

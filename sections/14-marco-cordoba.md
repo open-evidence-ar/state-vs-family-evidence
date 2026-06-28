@@ -3,9 +3,9 @@
 
 ### 14.1 Objetivo y alcance geográfico
 
-El §6 [Marco Analítico A](#marco-analitico-a) se construyó íntegramente sobre microdatos de la **Oficina de Violencia Doméstica de la CSJN**, cuya cobertura es CABA y federal (~6,7% de la población nacional). El ratio resultante (1,94:1) es metodológicamente robusto, pero territorialmente restringido: no podemos saber si la asimetría se replica en jurisdicciones sin una OVD equivalente.
+El §6 [Marco Analítico A](#marco-analitico-a) se construyó íntegramente sobre microdatos de la **Oficina de Violencia Doméstica de la CSJN**, cuya cobertura es CABA y federal (~6,7% de la población nacional). El ratio resultante CABA↔CABA (5,46:1) restablece la equivalencia jurisdiccional con prorrateo 35,5% (informe oficial Línea 137, §3.3); el ratio CABA↔Nacional (1,94:1) se conserva como cota conservadora. La pregunta es si la asimetría se replica en jurisdicciones sin una OVD equivalente.
 
-Esta sección replica la lógica del Marco A en la **Provincia de Córdoba** (cuarta jurisdicción por población, ~3,6 millones de habitantes, ~9% del país) usando las fuentes oficiales más cercanas disponibles. El objetivo es **verificar si la asimetría 1,94:1 se replica** y, con ello, fortalecer la generalidad del hallazgo. Se explicitan todos los supuestos etarios y jurisdiccionales; el resultado se presenta como **rango** y no como estimación puntual.
+Esta sección replica la lógica del Marco A en la **Provincia de Córdoba** (cuarta jurisdicción por población, ~3,6 millones de habitantes, ~9% del país) usando las fuentes oficiales más cercanas disponibles. El objetivo es **verificar si la asimetría escala (CABA↔CABA 5,46:1 / CABA↔Nacional 1,94:1) se replica** y, con ello, fortalecer la generalidad del hallazgo. Se explicitan todos los supuestos etarios y jurisdiccionales; el resultado se presenta como **rango** y no como estimación puntual.
 
 > **Nota preventiva sobre cobertura.** Córdoba no tiene un dispositivo equivalente a la OVD-CSJN: no existe una oficina judicial centralizada con microdatos públicos de NNyA víctimas de abuso sexual intrafamiliar con desglose etario. Por diseño procesal provincial, las medidas de protección son formalmente adoptadas **100% por el Órgano Administrativo** (SENAF provincial) y 0% por el Poder Judicial (ver §14.5.1). Sin embargo, el **Polo Integral de la Mujer** (Unidad Judicial de Violencia Familiar del Ministerio Público Fiscal) funge como canal de inicio dominante → SENAF ratifica la separación (ver §14.5.1 para la cadena real de decisión). La diferencia clave con CABA es el **momento del control**: en CABA el juez autoriza *antes* de la ejecución; en Córdoba SENAF ejecuta *primero* y el juez revisa *después* — **sin efecto suspensivo**. Esto hace que la ruta administrativa sea menos controlada que la judicial, no más.
 
@@ -108,7 +108,7 @@ Denominador:    977 × 61,51% = ~601 NNyA DIS (sobre total)       ◇
 Ratio C = 1.107 / 601 = 1,84 : 1
 ```
 
-**Interpretación:** si se imputa la edad en los casos "sin datos" usando la misma distribución que los casos con dato (descuento más conservador), el ratio es **1,84:1** — más cercano al 1,94:1 de CABA.
+**Interpretación:** si se imputa la edad en los casos "sin datos" usando la misma distribución que los casos con dato (descuento más conservador), el ratio es **1,84:1** — más cercano al 1,94:1 CABA↔Nacional (cota conservadora, denominador Línea 137 nacional).
 
 #### 14.4.4 Rango consolidado
 
@@ -117,7 +117,7 @@ Ratio C = 1.107 / 601 = 1,84 : 1
 | **A — denominador sin filtro etario** | 1.107 / 977 | **1,13 : 1** | ◎/◎ |
 | **B (recomendado) — proxy UNQ sobre casos con dato etario** | 1.107 / 709 | **1,56 : 1** | ◎/◇ |
 | **C — proxy UNQ sobre total (asumiendo sin datos = azar)** | 1.107 / 601 | **1,84 : 1** | ◎/◇ |
-| **HEADLINE — comparación con CABA Marco A** | — | **1,94 : 1** | — |
+| **HEADLINE — comparación con CABA Marco A** | — | **5,46 : 1** (CABA↔CABA) / **1,94 : 1** (CABA↔Nacional) | — |
 
 {% include tags/ratio.html valor="1,56 : 1 (rango: 1,13 – 1,84)" interpretacion="NNyA bajo MPE administrativa en Córdoba por cada NNyA víctima observada de DIS" %}
 
@@ -153,7 +153,7 @@ En **CABA**, el numerador del Marco A proviene de la OVD (CSJN) — organismo ju
 
 #### 14.5.2 Por qué el ratio se replica a pesar de la diferencia
 
-La pregunta relevante es: **¿por qué la asimetría se mantiene en el mismo orden de magnitud (1,13-1,84:1) en Córdoba que en CABA (1,94:1)?** Hipótesis:
+La pregunta relevante es: **¿por qué la asimetría se mantiene en el mismo orden de magnitud (1,13-1,84:1) en Córdoba que en CABA (5,46:1 CABA↔CABA / 1,94:1 CABA↔Nacional)?** Hipótesis:
 
 1. **Cifra negra consistente.** El subregistro de víctimas DIS es estructural y transversal a jurisdicciones: están publicadas estimaciones de sub-denuncia del 77-88% (CEDAW/ONU; ver §3). En la medida en que la cifra negra sea estable entre CABA y Córdoba, los **dos ratios son insensibles a su magnitud** (la asimetría es entre intervención y observación, no entre observación y realidad).
 2. **Definición amplia de "motivo" de MPE.** SENAF reporta que, en Córdoba, el motivo **1.°** de MPE es **"Otras — descuido o trato negligente"**, no "violencia". Esto significa que la MPE no se limita a casos de ASI: se activa por **dificultades en el ejercicio de la responsabilidad parental**, que es una categoría legal más amplia y que probablemente cubre conflictos familiares donde la vulneración de derechos no constituye delito penal. Esto explica parcialmente por qué el numerador (1.107) supera con holgura al subconjunto de víctimas DIS (709). Villagra & Sequeira (2019) cuantifican con precisión: sobre 105 MPE analizadas, el motivo principal fue negligencia (54%); abuso sexual representó apenas el **5%** — once veces menos que negligencia.
@@ -195,14 +195,14 @@ La pregunta relevante es: **¿por qué la asimetría se mantiene en el mismo ord
 | Denominador | 1.819 (Línea 137/UNICEF 2020-21) | ~977 hechos DIS (SNIC 2020, sin filtro) |
 | | | ~709 NNyA DIS estimado (con filtro UNQ) |
 | Año del denominador | 2020-2021 | 2020 |
-| **Ratio Marco A (caso base)** | **1,94 : 1** | **1,56 : 1** (B) / 1,13:1 (A) / 1,84:1 (C) |
+| **Ratio Marco A (caso base)** | **5,46 : 1** (CABA↔CABA) / **1,94 : 1** (CABA↔Nacional) | **1,56 : 1** (B) / 1,13:1 (A) / 1,84:1 (C) |
 | Badge dominante | ◎/◇ (denominador derivado) | ◎/◇ (denominador con proxy) |
 | Cobertura territorial | ~6,7% población nacional | ~9% población nacional |
 | Orden de magnitud | Misma magnitud | Misma magnitud ✓ |
 
 ### 14.7 Lectura integrada — ¿qué valida esta réplica?
 
-> **Validación cruzada de la asimetría escala.** Añadir una segunda jurisdicción con metodología replicable **no confirma** el 1,94:1 de CABA como constante natural, pero sí **rechaza la hipótesis nula inversa**: que la asimetría sea un artefacto de la OVD-CABA. Si CABA midiera una anomalía local, esperaríamos que Córdoba (con 100% de numerador administrativo, no judicial) mostrara una relación diferente — no replicable con el mismo orden de magnitud. La réplica corrobora que el patrón numérico `NNyA bajo intervención estatal protectora` `≥` `NNyA víctimas observadas` es transversal a diseños procesales distintos.
+> **Validación cruzada de la asimetría escala.** Añadir una segunda jurisdicción con metodología replicable **no confirma** el 5,46:1 de CABA (CABA↔CABA) ni el 1,94:1 (CABA↔Nacional) como constante natural, pero sí **rechaza la hipótesis nula inversa**: que la asimetría sea un artefacto de la OVD-CABA. Si CABA midiera una anomalía local, esperaríamos que Córdoba (con 100% de numerador administrativo, no judicial) mostrara una relación diferente — no replicable con el mismo orden de magnitud. La réplica corrobora que el patrón numérico `NNyA bajo intervención estatal protectora` `≥` `NNyA víctimas observadas` es transversal a diseños procesales distintos.
 >
 > **Lo que esta sección NO afirma:**
 > 1. Que todo NNyA bajo MPE sea una víctima de falsa causa — la cifra mezcla víctimas reales con NNyA separados por motivos no penales.

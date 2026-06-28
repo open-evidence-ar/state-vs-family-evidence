@@ -4,7 +4,7 @@ This file is loaded on demand from `AGENTS.md §3`. Read when a project-specific
 
 | Term                  | Meaning in this project                                      |
 |-----------------------|-------------------------------------------------------------|
-| Marco A               | Ratio NNyA en causas con cautela / NNyA víctimas            |
+| Marco A               | Ratio NNyA en causas con cautela / NNyA víctimas (CABA↔CABA: 5,46:1; CABA↔Nacional: 1,94:1) |
 | Marco B               | Medidas cautelares / condenas intrafamiliares               |
 | Capa 2/3/4            | Escalones de estimación de NNyA afectados por FD            |
 | FD / VG-VI            | Falsa denuncia / Violencia de género / Violencia intrafamiliar |

@@ -12,7 +12,7 @@
 
 | Indicador | Base | Restricción | Techo |
 |---|---|---|---|
-| Marco A — NNyA cautela / víctima | **1,94 : 1** (caso base observado — microdatos CSJN OVD 2024, ver §2.3) | | |
+| Marco A — NNyA cautela / víctima | **5,46 : 1** (CABA↔CABA, prorrateo 35,5% — §3.3, §6) | 1,94 : 1 (CABA↔Nacional, cota conservadora — §2.4) | |
 | Marco B ajustado — injustificadas / condena | 0 : 1 | 0,53 : 1 | 3,67 : 1 |
 | FD-VG/VI (% según denominador) | 0,09% penal | 8,9% clasificadas | 61,5% techo Santa Fe |
 | NNyA potencialmente afectados por FD | 557 | 2.631 | 3.853 |

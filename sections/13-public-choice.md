@@ -168,7 +168,7 @@ Ninguna de estas condiciones puede evaluarse hoy porque los datos no existen pú
 
 ### 13.6 Implicación para §6, §7 y §11
 
-Este marco **no agrega datos primarios** al informe; es una lectura interpretativa del patrón que §6 Marco A (ratio NNyA bajo cautelar / víctimas observadas ≈ 1,94:1) y §7 Marco B (injustificadas / condenas = 0,53–3,67) ya muestran. Su función es triple:
+Este marco **no agrega datos primarios** al informe; es una lectura interpretativa del patrón que §6 Marco A (ratio NNyA bajo cautelar / víctimas observadas CABA-equivalentes = 5,46 : 1) y §7 Marco B (injustificadas / condenas = 0,53–3,67) ya muestran. Su función es triple:
 
 1. **Explicar la persistencia**: si los actores que miden la intervención tienen incentivos para expandirla, la asimetría se autorrefuerza. Los mecanismos argentinos documentados en §13.4 (sesgo de registro de FD, archivo de IPP sin acción FD, automatización cautelar con prórroga consecutiva) constituyen la expresión local de ese patrón global.
 2. **Advertir sobre contramedidas cosméticas**: incrementos puramente presupuestarios o de personal (más fiscales, más defensores, más juzgados de familia) **no corrigen el sesgo** y pueden empeorar las asimetrías si no se acompañan de indicadores públicos de resultados (cautelares revisadas, contactos restituidos, IPPs concluidas vs. IPP iniciadas). La experiencia legislativa de §13.4.4 muestra que la respuesta del sistema tiende a ser punitiva (más penas), no transparencial (más datos de outcomes).

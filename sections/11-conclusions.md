@@ -3,7 +3,7 @@
 
 1. El sistema cautelar familiar opera a escala muy superior a la victimización infantil intrafamiliar **registrada** y a las condenas por abuso sexual intrafamiliar contra NNyA. Por cada condena hay **~6 medidas cautelares** en CABA (Marco B Capa 1).
 
-2. El **Marco A** (1,94 : 1) es el indicador central: compara NNyA con NNyA bajo trazabilidad explícita.
+2. El **Marco A** (CABA↔CABA: 5,46 : 1; CABA↔Nacional: 1,94 : 1) es el indicador central: compara NNyA con NNyA dentro de la misma jurisdicción, eliminando la crítica de falacia ecológica. Ver §3.3 y §6 para el detalle del prorrateo jurisdiccional (35,5% participación CABA según informe Línea 137 2017–oct 2023).
 
 3. El **Marco B corregido** mide **medidas injustificadas por condena**. En escenario nacional (8,9% FD): 0,53 injustificadas por condena. En techo Santa Fe (61,5% FD): 3,67 por condena. Daño potencial: **557–3.853 NNyA**.
 

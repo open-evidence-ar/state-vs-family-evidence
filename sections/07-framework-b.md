@@ -133,7 +133,8 @@ La evidencia de la Capa 3 indica que la inducción estatal de monoparentalidad (
 
 | Indicador | CABA | Nacional estimado |
 |---|---|---|
-| Marco A: NNyA / víctimas (caso base observado) | 1,94 : 1 | **~29 : 1** |
+| Marco A: NNyA / víctimas (caso base observado, CABA↔CABA) | 5,46 : 1 | **~80 : 1** |
+| Marco A: NNyA / víctimas (caso base observado, CABA↔Nacional) | 1,94 : 1 | **~29 : 1** |
 | Medidas protección NNyA | 4.474 | **~67.000** |
 | Marco B: medidas / condenas | 6,0 : 1 | **~89 : 1** |
 | Marco B Capa 2: injustificadas (8,9% FD) / condena | 0,53 : 1 | **~7,9 : 1** |
